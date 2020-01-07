@@ -1,0 +1,26 @@
+{
+  "id": "227030cd-1649-4a49-9743-fc4e07bb5cfc",
+  "name": "KeyBoard_Listener",
+  "publisher": "Cluster Reply S.r.l.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.reply.com/cluster-reply/it/homepage",
+  "logo": "./Logo/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://KeyBoard_Listener.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
